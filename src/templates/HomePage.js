@@ -18,7 +18,7 @@ function HomePage() {
         
           <div className='flex aicenter'>
             <div className='white'>
-              <h2 className='mono blue'>Hoi, ik benn</h2>
+              <h2 className='mono blue'>Hoi, ik ben</h2>
               <h1 className='league bigfont'>Enmanuel Varela</h1>
               <h5 className='mono'>Junior programmeur - Audiovisual editor</h5>
             </div>
